@@ -1,0 +1,15 @@
+attrdict
+gensim
+matplotlib
+nltk==3.6.6
+pandas
+regex
+protobuf==3.20.0
+scipy
+sympy==1.4
+tensorboard==1.12.2
+tensorboardX==1.2
+tokenizers
+tqdm==4.36.1
+transformers==4.22.2
+openai
